@@ -6,11 +6,6 @@ class Solution {
         }
         return arr;
     }
-
-    public int[] leftRightDifference(int[] nums) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'leftRightDifference'");
-    }
 }
 public class LC1920{
     public static void main(String[] args){
