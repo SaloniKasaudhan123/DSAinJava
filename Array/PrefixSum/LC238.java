@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class LC238 {
     public static void main(String[] args) {

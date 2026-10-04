@@ -2,7 +2,7 @@
 // Find Smallest Letter Greater Than Target
 
 
-class Solution {
+public class SmallestLetter {
     public static void main(String[] args){
       char[]  letters = {'c','f','j','m' , 'x' , 'y'};
       char target = 'y' , ans = letters[0];
